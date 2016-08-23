@@ -1,1 +1,2 @@
-Random projects implemented with PHP
+#PHP
+Random projects implemented using PHP
